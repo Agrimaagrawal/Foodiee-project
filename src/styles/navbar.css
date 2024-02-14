@@ -6,34 +6,37 @@
 }
 .nav-bar{
     
-    width: clamp(300px,90%,1900px);
+    width: clamp(300px,100%,2000px);
     margin: 0 auto;
     padding: 1rem 0;
     
     border-bottom: 1px solid rgba(211, 208, 208, 0.541);
-
+    position: relative;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
 }
 .nav-items{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
     list-style-type: none;
     width: 100%;
     font-size: 1.5rem;
     text-align: center;
+    margin-left: 3rem;
 }
 .active{
 	display: flex;
 }
+
 .hamburger{
 	display:none;
 	width: 20%;
 	height:3rem;
 	position:absolute;
     right: 0;
+    bottom: 10px;
   
 	
 }
@@ -85,13 +88,18 @@
 	display: none;
 }
 
+
 }
 .nav-bar > .nav-link{
     font-size: 2rem;
     color: rgb(241, 138, 4);
     width: 30%;
     display: flex;
+   margin:0 0 0 2rem;
+   
 }
+    
+
 .nav-link:nth-child(6){
     width: 5%;
     margin-left: 2rem;
