@@ -18,7 +18,7 @@ const Navbar = () => {
         <div className="nav-link"><img src = {logo} /><Link to = '/'>FooDiee</Link></div>
         <ul className = {menu?"nav-items":"nav-items active"}>
             {/* <li className="nav-link"><img src = {logo} />FooDie</li> */}
-          <Link to = '/dashboard'> <li className="nav-link">Dashboard</li></Link>
+          <li className="nav-link"><Link to = '/dashboard'> Dashboard</Link></li>
             <li className="nav-link">Menu</li>
             <li className="nav-link">Contact</li>
             <li className="nav-link">Shop</li>
