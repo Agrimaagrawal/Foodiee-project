@@ -14,7 +14,6 @@
 }
 .special >p:nth-child(2){
     font-size: 1rem;
-    font-weight: light;
     
 }
 .special-con{
@@ -23,11 +22,13 @@
     margin:2rem auto;
     justify-content: space-around;
     align-items: center;
+    flex-wrap: wrap;
 }
 .special-card{
-    border-radius: 3rem;
-    width: clamp(85px,25%,300px);
+    border-radius: 5%;
+    width: clamp(100px,25%,300px);
     position: relative;
+    margin: 2rem auto;
   
 
 }

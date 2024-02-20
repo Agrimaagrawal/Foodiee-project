@@ -23,7 +23,7 @@ const Navbar = () => {
             <li className="nav-link">Contact</li>
             <li className="nav-link">Shop</li>
             <li className="nav-link"><form className = "search" onSubmit={handleSubmit}>
-                <input type = "text" />
+                <input type = "text" className='' />
                 <button type = "submit" className="search-icon" ><img  src= {searchIcon}/>
                 </button>
             </form>
