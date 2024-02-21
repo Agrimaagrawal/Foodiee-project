@@ -3,6 +3,8 @@ import HomePage from "./pages/HomePage"
 import './index.css'
 import ProfilePage from "./pages/ProfilePage"
 import SearchPage from "./pages/SearchPage"
+import SignUp from "./pages/Signup"
+import Login from "./pages/Login"
 function App() {
   
 
@@ -13,6 +15,8 @@ function App() {
       <Route path = '/' element={<HomePage />}  />
       <Route path = '/dashboard' element = {<ProfilePage />} />
       <Route path = '/search' element ={<SearchPage />} />
+      <Route path='/signup' element={<SignUp/>}/>
+      <Route path='/login' element={<Login/>}/>
       </Routes>
     </BrowserRouter>
       

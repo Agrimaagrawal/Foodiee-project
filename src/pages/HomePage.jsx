@@ -3,6 +3,8 @@ import HeroSection from "../components/HeroSection"
 import Services from "../components/Service"
 import FoodCourt from "../components/FoodCourt"
 import TodaySpecial from "../components/TodaySpecial"
+import Menu from "../components/Menu"
+import Footer from '../components/Footer'
 const HomePage = () =>{
     return(
         <>
@@ -10,7 +12,9 @@ const HomePage = () =>{
         <HeroSection />
         <Services/>
         <FoodCourt />
+        <Menu/>
         <TodaySpecial />
+        <Footer/>
         </>
     )
 }
