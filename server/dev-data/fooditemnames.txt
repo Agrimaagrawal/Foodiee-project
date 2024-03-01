@@ -1,6 +1,6 @@
 Sure, here's a list based on your specifications:
 
-### Main Course:
+### Main Course: Hansika
 1. Chicken Tikka Masala with Basmati Rice
 2. Vegetable Biryani with Raita
 3. Palak Paneer with Garlic Naan
@@ -32,7 +32,7 @@ Sure, here's a list based on your specifications:
 29. Lebanese Falafel with Hummus and Pita
 30. French Coq au Vin with Baguette
 
-### Desserts:
+### Desserts: Agrima
 1. Gulab Jamun Cheesecake
 2. Rasgulla Tiramisu
 3. Rasmalai with Saffron Ice Cream
@@ -54,7 +54,7 @@ Sure, here's a list based on your specifications:
 19. Portuguese Pastéis de Nata
 20. Austrian Apple Strudel
 
-### Drinks:
+### Drinks: Hansika
 1. Mango Lassi
 2. Masala Chai
 3. Thandai
@@ -66,7 +66,7 @@ Sure, here's a list based on your specifications:
 9. Badam Milk
 10. Coconut Water
 
-### Starters:
+### Starters: Agrima
 1. Samosa Chaat
 2. Vegetable Pakora
 3. Paneer Tikka
@@ -98,7 +98,7 @@ Sure, here's a list based on your specifications:
 29. Dahi Vada
 30. Masala Peanuts
 
-### Breads:
+### Breads:Hansika
 1. Garlic Naan
 2. Tandoori Roti
 3. Butter Naan

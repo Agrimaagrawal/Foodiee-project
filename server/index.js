@@ -23,4 +23,5 @@ app.get("/",(req,res) => {
         message:"Welcome to the backend of Foodie App This place makes it work"
     })
 })
-app.listen(process.env.PORT||3000,()=>{console.log('server on port 3000')});
+const port = process.env.PORT||3000;
+app.listen(port,()=>{console.log(`server on port ${port}`)});
