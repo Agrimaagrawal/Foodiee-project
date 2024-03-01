@@ -5,7 +5,7 @@
         "price": 350,
         "veg": false,
         "discount": 0,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
         "imgurl": "https://img.freepik.com/free-photo/pilaf-with-carrots-saffron_140725-1198.jpg?t=st=1709139773~exp=1709143373~hmac=a428b386c980d44db044dcfe7c4c0eb91e855334c10e9efe88f9b7c2d666cc89&w=740",
@@ -13,7 +13,7 @@
         "price": 300,
         "veg": true,
         "discount": 10,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
         "imgurl": "https://th.bing.com/th/id/OIP.eswvy40DIE-6r7xuaSe5EgHaE8?rs=1&pid=ImgDetMain",
@@ -21,7 +21,7 @@
         "price": 280,
         "veg": true,
         "discount": 25,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
         "imgurl": "https://img.freepik.com/free-photo/indian-butter-chicken-black-bowl-wooden-table_123827-20544.jpg?t=st=1709140270~exp=1709143870~hmac=729d4b8978954db061510db3b58d48fa85f973547f8e32e6e5aa8fc1b0b80ec9&w=740",
@@ -29,7 +29,7 @@
         "price": 380,
         "veg": false,
         "discount": 50,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
         "imgurl": "https://img.freepik.com/free-photo/front-view-arrangement-with-delicious-pakistan-meal_23-2148821533.jpg?t=st=1709140351~exp=1709143951~hmac=542c626a89b611b03ebbbe423e49b5c8a31616d49865014fbf06ff76a61f73b8&w=740",
@@ -37,111 +37,111 @@
         "price": 360,
         "veg": false,
         "discount": 70,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/aloo_gobi.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.zZaEgHTH2TlZC_HOUP-dDQHaFS?w=242&h=180&c=7&r=0&o=5&pid=1.7",
         "name": "Aloo Gobi with Tandoori Roti",
         "price": 250,
         "veg": true,
         "discount": 0,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/vegetable_korma.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.VyKKLpn5yd51ZP4e7YtHZQHaLH?w=186&h=279&c=7&r=0&o=5&pid=1.7",
         "name": "Vegetable Korma with Steamed Basmati Rice",
         "price": 320,
         "veg": true,
         "discount": 10,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/dal_makhani.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.K37sCgUM0DZKbexXyBqu9gHaLH?w=500&h=500&c=7&r=0&o=5&pid=1.7",
         "name": "Dal Makhani with Peshawari Naan",
         "price": 280,
         "veg": true,
         "discount": 25,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/tandoori_chicken.jpg",
+        "imgurl": "https://img.freepik.com/premium-photo/mint-chutney-tangy-tandoori-chicken-naan-bread-generative-ai_909576-446.jpg",
         "name": "Tandoori Chicken with Mint Chutney and Naan",
         "price": 400,
         "veg": false,
         "discount": 50,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/fish_curry.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.SYJBPqbHqY-ZNVcPlWxjoAHaE7?w=286&h=191&c=7&r=0&o=5&pid=1.7",
         "name": "Fish Curry with Lemon Rice",
         "price": 380,
         "veg": false,
         "discount": 70,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/chole_bhature.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.Ddczg6qko6uFiZ31uC0dogHaE8?w=298&h=199&c=7&r=0&o=5&pid=1.7",
         "name": "Chole with Bhature",
         "price": 220,
         "veg": true,
         "discount": 0,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/hyderabadi_biryani.jpg",
+        "imgurl": "https://i.pinimg.com/originals/3d/73/b5/3d73b5188485a604b8589b55621b34f8.jpg",
         "name": "Hyderabadi Biryani with Mirchi Ka Salan",
         "price": 350,
         "veg": false,
         "discount": 10,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/paneer_butter_masala.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.znT3V9u8zUHH0EQtjQPa1wHaJ4?rs=1&pid=ImgDetMain",
         "name": "Paneer Butter Masala with Butter Naan",
         "price": 320,
         "veg": true,
         "discount": 25,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/chicken_biryani.jpg",
+        "imgurl": "https://media.istockphoto.com/photos/authentic-chicken-biryani-with-onion-raita-picture-id516417538?k=6&m=516417538&s=170667a&w=0&h=fQuFcPG-2a9ytZNACBRtl1ubb4jptZ-thTjwSHKNJ3k=",
         "name": "Chicken Biryani with Raita",
         "price": 380,
         "veg": false,
         "discount": 50,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/masoor_dal.jpg",
+        "imgurl": "https://3.bp.blogspot.com/--mm0D8L8gGQ/VQIjmozQrXI/AAAAAAAAA9U/3h_SaYCv4DE/s1600/IMG_3513.JPG",
         "name": "Masoor Dal with Tandoori Roti",
         "price": 250,
         "veg": true,
         "discount": 70,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/malai_kofta.jpg",
+        "imgurl": "https://i.pinimg.com/originals/90/0a/d6/900ad6977b78bbbd94ea551ae21dd8e9.jpg",
         "name": "Malai Kofta with Lachha Paratha",
         "price": 280,
         "veg": true,
         "discount": 0,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/chicken_curry.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.fL4QGbtFrWOgKvIlcv7LJQHaE8?rs=1&pid=ImgDetMain",
         "name": "Chicken Curry with Steamed Basmati Rice",
         "price": 380,
         "veg": false,
         "discount": 10,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/egg_curry.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.G5wo7cf9W9u2NAtiAXbCXQHaJ4?w=1200&h=1600&rs=1&pid=ImgDetMain",
         "name": "Egg Curry with Jeera Pulao",
         "price": 300,
         "veg": false,
         "discount": 25,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
         "imgurl": "img/veg_hakka_noodles.jpg",
@@ -149,95 +149,95 @@
         "price": 240,
         "veg": true,
         "discount": 50,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/thai_green_curry.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.swv7v818zgF8WcJYJCNQXQHaFj?rs=1&pid=ImgDetMain",
         "name": "Thai Green Curry with Jasmine Rice",
         "price": 300,
         "veg": true,
         "discount": 70,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/szechuan_chicken.jpg",
+        "imgurl": "https://i.pinimg.com/originals/03/e2/b8/03e2b8ccb5bd9d840b74d749f1dddec2.jpg",
         "name": "Szechuan Chicken with Fried Rice",
         "price": 320,
         "veg": false,
         "discount": 0,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/pad_thai.jpg",
+        "imgurl": "https://jays2go.com/wp-content/uploads/2019/09/Shrimp-Pad-Thai.jpg",
         "name": "Pad Thai Noodles with Shrimp",
         "price": 350,
         "veg": false,
         "discount": 10,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/vietnamese_pho.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.67N7KHN0LQX84_FDQmayYgHaHa?rs=1&pid=ImgDetMain",
         "name": "Vietnamese Pho with Chicken",
         "price": 340,
         "veg": false,
         "discount": 25,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/mexican_burritos.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.qyQ-wFPaHzZxgf9IeNQ1fwHaE9?rs=1&pid=ImgDetMain",
         "name": "Mexican Burritos with Guacamole",
         "price": 300,
         "veg": false,
         "discount": 50,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/italian_margherita_pizza.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.PHHJ-IQE1K-ECfjmv9sC3wHaHa?rs=1&pid=ImgDetMain",
         "name": "Italian Margherita Pizza",
         "price": 280,
         "veg": true,
         "discount": 70,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/greek_moussaka.jpg",
+        "imgurl": "https://healthyummyfood.com/wp-content/uploads/2020/08/Deconstructed-moussaka.jpeg",
         "name": "Greek Moussaka with Greek Salad",
         "price": 320,
         "veg": true,
         "discount": 0,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/spanish_paella.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.-2YhWgXgsS2swyOxp79UuwHaE8?rs=1&pid=ImgDetMain",
         "name": "Spanish Paella with Saffron Rice",
         "price": 350,
         "veg": false,
         "discount": 10,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/moroccan_tagine.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.9yX2S79SyjHJYYQcGk0i2QHaG4?rs=1&pid=ImgDetMain",
         "name": "Moroccan Tagine with Couscous",
         "price": 340,
         "veg": true,
         "discount": 25,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/lebanese_falafel.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.i0LiKrEWXbbjeZJ9Mb9MhAHaE8",
         "name": "Lebanese Falafel with Hummus and Pita",
         "price": 280,
         "veg": true,
         "discount": 50,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
-        "imgurl": "img/french_coq_au_vin.jpg",
+        "imgurl": "https://i.pinimg.com/originals/0e/f5/d5/0ef5d582d1662cef315feb5e79931cf0.jpg",
         "name": "French Coq au Vin with Baguette",
         "price": 360,
         "veg": false,
         "discount": 70,
-        "category": "Main Course"
+        "category": "maincourse"
       },
       {
         "imgurl": "img/gulab_jamun_cheesecake.jpg",
@@ -245,7 +245,7 @@
         "price": 180,
         "veg": true,
         "discount": 0,
-        "category": "Desserts"
+        "category": "desserts"
       },
       {
         "imgurl": "img/rasgulla_tiramisu.jpg",
@@ -253,7 +253,7 @@
         "price": 200,
         "veg": true,
         "discount": 0,
-        "category": "Desserts"
+        "category": "desserts"
       },
       {
         "imgurl": "img/rasmalai_saffron_ice_cream.jpg",
@@ -261,7 +261,7 @@
         "price": 220,
         "veg": true,
         "discount": 0,
-        "category": "Desserts"
+        "category": "desserts"
       },
       {
         "imgurl": "img/gajar_halwa_tart.jpg",
@@ -269,7 +269,7 @@
         "price": 180,
         "veg": true,
         "discount": 0,
-        "category": "Desserts"
+        "category": "desserts"
       },
       {
         "imgurl": "img/kheer_rose_petals.jpg",
@@ -277,7 +277,7 @@
         "price": 160,
         "veg": true,
         "discount": 0,
-        "category": "Desserts"
+        "category": "desserts"
       },
       {
         "imgurl": "img/jalebi_vanilla_ice_cream.jpg",
@@ -285,7 +285,7 @@
         "price": 150,
         "veg": true,
         "discount": 0,
-        "category": "Desserts"
+        "category": "desserts"
       },
       {
         "imgurl": "img/malpua_rabri.jpg",
@@ -293,7 +293,7 @@
         "price": 170,
         "veg": true,
         "discount": 0,
-        "category": "Desserts"
+        "category": "desserts"
       },
       {
         "imgurl": "img/kulfi_falooda.jpg",
@@ -301,7 +301,7 @@
         "price": 190,
         "veg": true,
         "discount": 0,
-        "category": "Desserts"
+        "category": "desserts"
       },
       {
         "imgurl": "img/rabri_saffron_infusion.jpg",
@@ -309,7 +309,7 @@
         "price": 180,
         "veg": true,
         "discount": 0,
-        "category": "Desserts"
+        "category": "desserts"
       },
       {
         "imgurl": "img/coconut_ladoo_pistachio_garnish.jpg",
@@ -317,7 +317,7 @@
         "price": 120,
         "veg": true,
         "discount": 0,
-        "category": "Desserts"
+        "category": "desserts"
       },
       {
         "imgurl": "img/mango_lassi.jpg",
@@ -325,7 +325,7 @@
         "price": 90,
         "veg": true,
         "discount": 0,
-        "category": "Drinks"
+        "category": "drinks"
       },
       {
         "imgurl": "img/masala_chai.jpg",
@@ -333,7 +333,7 @@
         "price": 60,
         "veg": true,
         "discount": 0,
-        "category": "Drinks"
+        "category": "drinks"
       },
       {
         "imgurl": "img/thandai.jpg",
@@ -341,7 +341,7 @@
         "price": 100,
         "veg": true,
         "discount": 0,
-        "category": "Drinks"
+        "category": "drinks"
       },
       {
         "imgurl": "img/rose_milk.jpg",
@@ -349,7 +349,7 @@
         "price": 80,
         "veg": true,
         "discount": 0,
-        "category": "Drinks"
+        "category": "drinks"
       },
       {
         "imgurl": "img/nimbu_pani.jpg",
@@ -357,7 +357,7 @@
         "price": 50,
         "veg": true,
         "discount": 0,
-        "category": "Drinks"
+        "category": "drinks"
       },
       {
         "imgurl": "img/jaljeera.jpg",
@@ -365,7 +365,7 @@
         "price": 70,
         "veg": true,
         "discount": 0,
-        "category": "Drinks"
+        "category": "drinks"
       },
       {
         "imgurl": "img/chaas.jpg",
@@ -373,7 +373,7 @@
         "price": 40,
         "veg": true,
         "discount": 0,
-        "category": "Drinks"
+        "category": "drinks"
       },
       {
         "imgurl": "img/aam_panna.jpg",
@@ -381,7 +381,7 @@
         "price": 90,
         "veg": true,
         "discount": 0,
-        "category": "Drinks"
+        "category": "drinks"
       },
       {
         "imgurl": "img/badam_milk.jpg",
@@ -389,7 +389,7 @@
         "price": 120,
         "veg": true,
         "discount": 0,
-        "category": "Drinks"
+        "category": "drinks"
       },
       {
         "imgurl": "img/coconut_water.jpg",
@@ -397,7 +397,7 @@
         "price": 40,
         "veg": true,
         "discount": 0,
-        "category": "Drinks"
+        "category": "drinks"
       },
       {
         "imgurl": "img/samosa_chaat.jpg",
@@ -405,7 +405,7 @@
         "price": 90,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/vegetable_pakora.jpg",
@@ -413,7 +413,7 @@
         "price": 80,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/paneer_tikka.jpg",
@@ -421,7 +421,7 @@
         "price": 120,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/aloo_tikki.jpg",
@@ -429,7 +429,7 @@
         "price": 70,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/chicken_65.jpg",
@@ -437,7 +437,7 @@
         "price": 150,
         "veg": false,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/tandoori_chicken.jpg",
@@ -445,7 +445,7 @@
         "price": 180,
         "veg": false,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/fish_tikka.jpg",
@@ -453,7 +453,7 @@
         "price": 200,
         "veg": false,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/vegetable_manchurian.jpg",
@@ -461,7 +461,7 @@
         "price": 120,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/chicken_manchurian.jpg",
@@ -469,7 +469,7 @@
         "price": 160,
         "veg": false,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/dahi_puri.jpg",
@@ -477,7 +477,7 @@
         "price": 100,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/papdi_chaat.jpg",
@@ -485,7 +485,7 @@
         "price": 90,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/hara_bhara_kebab.jpg",
@@ -493,7 +493,7 @@
         "price": 100,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/chicken_tikka_roll.jpg",
@@ -501,7 +501,7 @@
         "price": 120,
         "veg": false,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/paneer_kathi_roll.jpg",
@@ -509,7 +509,7 @@
         "price": 110,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/corn_kebab.jpg",
@@ -517,7 +517,7 @@
         "price": 80,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/chicken_hariyali_tikka.jpg",
@@ -525,7 +525,7 @@
         "price": 160,
         "veg": false,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/veg_spring_rolls.jpg",
@@ -533,7 +533,7 @@
         "price": 100,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/chicken_spring_rolls.jpg",
@@ -541,7 +541,7 @@
         "price": 140,
         "veg": false,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/onion_bhaji.jpg",
@@ -549,7 +549,7 @@
         "price": 80,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/chilli_paneer.jpg",
@@ -557,7 +557,7 @@
         "price": 170,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/prawn_fry.jpg",
@@ -565,7 +565,7 @@
         "price": 220,
         "veg": false,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/chicken_pakora.jpg",
@@ -573,7 +573,7 @@
         "price": 200,
         "veg": false,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/veg_cutlet.jpg",
@@ -581,7 +581,7 @@
         "price": 120,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/chicken_momos.jpg",
@@ -589,7 +589,7 @@
         "price": 180,
         "veg": false,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/veg_momos.jpg",
@@ -597,7 +597,7 @@
         "price": 150,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/bread_pakora.jpg",
@@ -605,7 +605,7 @@
         "price": 90,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/chicken_wings.jpg",
@@ -613,7 +613,7 @@
         "price": 190,
         "veg": false,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/paneer_chilli.jpg",
@@ -621,7 +621,7 @@
         "price": 170,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/dahi_vada.jpg",
@@ -629,7 +629,7 @@
         "price": 100,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/masala_peanuts.jpg",
@@ -637,7 +637,7 @@
         "price": 80,
         "veg": true,
         "discount": 0,
-        "category": "Starters"
+        "category": "starters"
       },
       {
         "imgurl": "img/garlic_naam.jpg",
@@ -645,7 +645,7 @@
         "price": 40,
         "veg": true,
         "discount": 0,
-        "category": "Breads"
+        "category": "breads"
       },
       {
         "imgurl": "img/tandoori_roti.jpg",
@@ -653,7 +653,7 @@
         "price": 20,
         "veg": true,
         "discount": 0,
-        "category": "Breads"
+        "category": "breads"
       },
       {
         "imgurl": "img/butter_naam.jpg",
@@ -661,7 +661,7 @@
         "price": 60,
         "veg": true,
         "discount": 0,
-        "category": "Breads"
+        "category": "breads"
       },
       {
         "imgurl": "img/laccha_paratha.jpg",
@@ -669,7 +669,7 @@
         "price": 60,
         "veg": true,
         "discount": 0,
-        "category": "Breads"
+        "category": "breads"
       },
       {
         "imgurl": "img/peshawari_naan.jpg",
@@ -677,7 +677,7 @@
         "price": 70,
         "veg": true,
         "discount": 0,
-        "category": "Breads"
+        "category": "breads"
       },
       {
         "imgurl": "img/bhature.jpg",
@@ -685,7 +685,7 @@
         "price": 50,
         "veg": true,
         "discount": 0,
-        "category": "Breads"
+        "category": "breads"
       },
       {
         "imgurl": "img/baguette.jpg",
@@ -693,7 +693,7 @@
         "price": 80,
         "veg": true,
         "discount": 0,
-        "category": "Breads"
+        "category": "breads"
       },
       {
         "imgurl": "img/pita_bread.jpg",
@@ -701,7 +701,7 @@
         "price": 60,
         "veg": true,
         "discount": 0,
-        "category": "Breads"
+        "category": "breads"
       },
       {
         "imgurl": "img/focaccia.jpg",
@@ -709,7 +709,7 @@
         "price": 70,
         "veg": true,
         "discount": 0,
-        "category": "Breads"
+        "category": "breads"
       },
       {
         "imgurl": "img/ciabatta.jpg",
@@ -717,7 +717,7 @@
         "price": 70,
         "veg": true,
         "discount": 0,
-        "category": "Breads"
+        "category": "breads"
       }
 ]
   
