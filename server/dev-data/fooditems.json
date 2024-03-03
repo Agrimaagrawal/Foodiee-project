@@ -328,7 +328,7 @@
         "category": "drinks"
       },
       {
-        "imgurl": "img/masala_chai.jpg",
+        "imgurl": "https://masalaandchai.com/wp-content/uploads/2021/07/Masala-Chai-Featured.jpg",
         "name": "Masala Chai",
         "price": 60,
         "veg": true,
@@ -336,7 +336,7 @@
         "category": "drinks"
       },
       {
-        "imgurl": "img/thandai.jpg",
+        "imgurl": "https://www.ruchiskitchen.com/wp-content/uploads/2017/03/thandai-recipe-11.jpg.webp",
         "name": "Thandai",
         "price": 100,
         "veg": true,
@@ -344,7 +344,7 @@
         "category": "drinks"
       },
       {
-        "imgurl": "img/rose_milk.jpg",
+        "imgurl": "https://1.bp.blogspot.com/-BypC3t2a6GI/XtdXhYZhxhI/AAAAAAAAW2s/OG_X_6m6eDcsbSwxmY-uT92hRMwhVSv2ACNcBGAsYHQ/Rose%2BMilk15.jpg",
         "name": "Rose Milk",
         "price": 80,
         "veg": true,
@@ -352,7 +352,7 @@
         "category": "drinks"
       },
       {
-        "imgurl": "img/nimbu_pani.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.c6v1cWUQB0B5FMf0yPq7fwHaHv",
         "name": "Nimbu Pani",
         "price": 50,
         "veg": true,
@@ -360,7 +360,7 @@
         "category": "drinks"
       },
       {
-        "imgurl": "img/jaljeera.jpg",
+        "imgurl": "https://www.whiskaffair.com/wp-content/uploads/2014/05/Jaljeera-1.jpg",
         "name": "Jaljeera",
         "price": 70,
         "veg": true,
@@ -368,7 +368,7 @@
         "category": "drinks"
       },
       {
-        "imgurl": "img/chaas.jpg",
+        "imgurl": "https://www.shellyfoodspot.com/wp-content/uploads/2021/02/How-to-make-chaasMasala-chaas-recipe-3.jpg",
         "name": "Chaas",
         "price": 40,
         "veg": true,
@@ -376,7 +376,7 @@
         "category": "drinks"
       },
       {
-        "imgurl": "img/aam_panna.jpg",
+        "imgurl": "https://i0.wp.com/savorytales.com/wp-content/uploads/2018/05/IMG_6346.jpg?fit=3456%2C5184&ssl=1",
         "name": "Aam Panna",
         "price": 90,
         "veg": true,
@@ -384,7 +384,7 @@
         "category": "drinks"
       },
       {
-        "imgurl": "img/badam_milk.jpg",
+        "imgurl": "https://www.whiskaffair.com/wp-content/uploads/2016/07/Badam-Milk-1.jpg",
         "name": "Badam Milk",
         "price": 120,
         "veg": true,
@@ -392,7 +392,7 @@
         "category": "drinks"
       },
       {
-        "imgurl": "img/coconut_water.jpg",
+        "imgurl": "https://pragativadi.com/wp-content/uploads/2021/02/3-cocu1600424507-0.jpg",
         "name": "Coconut Water",
         "price": 40,
         "veg": true,
@@ -640,7 +640,7 @@
         "category": "starters"
       },
       {
-        "imgurl": "img/garlic_naam.jpg",
+        "imgurl": "https://i1.wp.com/thewhiskaddict.com/wp-content/uploads/2021/01/IMG_6493.jpg",
         "name": "Garlic Naan",
         "price": 40,
         "veg": true,
@@ -648,7 +648,7 @@
         "category": "breads"
       },
       {
-        "imgurl": "img/tandoori_roti.jpg",
+        "imgurl": "https://thespicemess.com/wp-content/uploads/2020/08/Naan-1.jpg",
         "name": "Tandoori Roti",
         "price": 20,
         "veg": true,
@@ -656,7 +656,7 @@
         "category": "breads"
       },
       {
-        "imgurl": "img/butter_naam.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.z5Z4CAZZInRQtzcmqk4UkgHaHa",
         "name": "Butter Naan",
         "price": 60,
         "veg": true,
@@ -664,7 +664,7 @@
         "category": "breads"
       },
       {
-        "imgurl": "img/laccha_paratha.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.Bysf1JumEPyu9AsYs6Y9ogHaE8",
         "name": "Laccha Paratha",
         "price": 60,
         "veg": true,
@@ -672,7 +672,7 @@
         "category": "breads"
       },
       {
-        "imgurl": "img/peshawari_naan.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.7Kl_ygGLmcUYzHrv8bmeggHaHa",
         "name": "Peshawari Naan",
         "price": 70,
         "veg": true,
@@ -680,7 +680,7 @@
         "category": "breads"
       },
       {
-        "imgurl": "img/bhature.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.WBCbm_mC1SXmxST6AEUtAAHaE-",
         "name": "Bhature",
         "price": 50,
         "veg": true,
@@ -688,7 +688,7 @@
         "category": "breads"
       },
       {
-        "imgurl": "img/baguette.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.G2rVYG8878XhRkxC8-DxFwAAAA",
         "name": "Baguette",
         "price": 80,
         "veg": true,
@@ -696,7 +696,7 @@
         "category": "breads"
       },
       {
-        "imgurl": "img/pita_bread.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.4BZ40mqCVUkAN0atAriO2wHaE8",
         "name": "Pita Bread",
         "price": 60,
         "veg": true,
@@ -704,7 +704,7 @@
         "category": "breads"
       },
       {
-        "imgurl": "img/focaccia.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.NQv3UqEFUCl-fOrKubXd1AHaHa",
         "name": "Focaccia",
         "price": 70,
         "veg": true,
@@ -712,7 +712,7 @@
         "category": "breads"
       },
       {
-        "imgurl": "img/ciabatta.jpg",
+        "imgurl": "https://th.bing.com/th/id/OIP.KSGSxxpi06_s0v4zAubf3gHaE8",
         "name": "Ciabatta",
         "price": 70,
         "veg": true,

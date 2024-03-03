@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 require('dotenv').config()
-
+const ProductRouter = require('./routes/productRoutes')
 const mongoose = require('mongoose');
 const uri = `mongodb+srv://jerkinvestor:${process.env.DATABASE_PASSWORD}@cluster0.iv8h6cu.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
 const clientOptions = { serverApi: { version: '1', strict: true, deprecationErrors: true } };
@@ -16,7 +16,7 @@ async function run() {
   }
 }
 run()
-
+app.get('/products', ProductRouter);
 app.get("/",(req,res) => {
     res.status(200).json({
         success:true,
