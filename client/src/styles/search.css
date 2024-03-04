@@ -45,7 +45,7 @@
 
 }
 .card{
-    width: clamp(200px,29%,1000px);
+    width: clamp(250px,29%,1000px);
     position: relative;
     margin: 1rem auto;
     border-radius: 20px;
@@ -53,7 +53,7 @@
 }
 .card-img{
     width: 100%;
-    max-height: 18rem;
+    height: 18rem;
 }
 .card-details{
     position: absolute;
@@ -66,6 +66,7 @@
 .card-details > p{
     width: fit-content;
     margin: auto;
+    text-align: center;
     color: rgb(228, 225, 221);
 }
 .veg{
@@ -74,10 +75,22 @@
     right: 2px;
 }
 .filter{
-    width: fit-content;
+    width: clamp(200px,40%,500px);
     margin: 1rem auto;
-    border: 1px solid black;
+   box-shadow:5px 5px 10px 5px rgba(0, 0, 0, 0.295);
+   border-radius: 10px;
     padding: 2rem;
+
+}
+.filter > button{
+    width: 100%;
+    font-size: 1.2rem;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.212);
+    padding: 0.5rem 0;
+}
+.filter > button:hover{
+    color:darkorange;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.295);
 }
 .card:hover{
     box-shadow: 10px 10px 19px rgba(104, 103, 103, 0.726);

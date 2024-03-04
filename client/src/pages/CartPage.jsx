@@ -14,7 +14,7 @@ const CartPage = () => {
           "vegetarian": false
         },
         {
-          "name": "Margherita Pizza",
+          "name": "Hyderabadi Biryani with Mirchi Ka Salan",
           "price": 12.99,
           "quantity": 1,
           "image": "margherita_pizza.jpg",
