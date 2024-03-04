@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const cors = require('cors');
 require('dotenv').config()
 const ProductRouter = require('./routes/productRoutes')
 const mongoose = require('mongoose');
@@ -16,7 +17,8 @@ async function run() {
   }
 }
 run()
-app.get('/products', ProductRouter);
+app.use(cors());
+app.use('/products', ProductRouter);
 app.get("/",(req,res) => {
     res.status(200).json({
         success:true,
